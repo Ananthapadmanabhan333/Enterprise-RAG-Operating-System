@@ -1,0 +1,11 @@
+fastapi==0.111.0
+uvicorn==0.30.1
+pydantic==2.7.4
+langgraph==0.0.69
+langchain==0.2.6
+langchain-openai==0.1.9
+qdrant-client==1.9.1
+SQLAlchemy==2.0.31
+asyncpg==0.29.0
+python-dotenv==1.0.1
+redis==5.0.7
